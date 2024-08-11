@@ -1,0 +1,21 @@
+#caja1{
+    background-color: #5fe6e6;
+    width: 60%;
+    height: 300px;
+    /* position: absolute; */
+    /* opacity: 0.4; */
+    /* top: 30px;
+    left: 40px; */
+    /* bottom: 0px; */
+    /* bottom: 0px; */
+
+    margin-top: 10%;
+    position: absolute;
+}
+
+#caja2{
+    background-color: coral;
+    width: 60%;
+    position: absolute;
+    top: 10px;
+}

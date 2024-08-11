@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#contenedor{
+    background-color: coral;
+    width: 100vw;
+    height: 100vh;
+}
+
+#contenedor2{
+    background-color: pink;
+    width: 100vw;
+    height: 100vh;
+}

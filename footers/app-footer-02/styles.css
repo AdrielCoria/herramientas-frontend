@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Robots';
+    min-height: 100vh;
+}
+
+.content{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+footer{
+    background-color: #141414;
+    color: white;
+    width: 80%;
+    margin: auto;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.8rem;
+}
+
+h2{
+    text-transform: uppercase;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+li{
+    list-style: none;
+    display: inline;
+    padding: 0 15px;
+}
+i{
+    margin-right: 15px;
+}
+
+hr{
+    opacity: 0.8;
+}
+
+.copyright{
+    padding: 1.2rem;
+    text-align: center;
+}
